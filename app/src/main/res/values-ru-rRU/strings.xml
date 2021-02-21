@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <string name="quantity">КОЛИЧЕСТВО</string>
+    <string name="order">ЗАКАЗ</string>
+    <string name="enter_quantity">Количество чашек</string>
+    <string name="price">СТОИМОСТЬ</string>
+    <string name="price_quantity">Сумма вашего заказа</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="toppings">ДОБАВКИ</string>
+    <string name="chocolate">Шоколад</string>
+    <string name="whipped_cream">Взбитые сливки</string>
+    <string name="thanks">Спасибо!</string>
+    <string name="order_summary_name">"Имя: <xliff:g id="name" example="Alf">%s</xliff:g> "</string>
+    <string name="email_subject">"JustJava Заказ для: <xliff:g id="name" example="Alf">%s</xliff:g> "</string>
+    <string name="hint_your_name">Ваше Имя</string>
+    <string name="hint_your_email">Ваш E-mail</string>
+    <string name="start_quantity">0</string>
+    <string name="add_whipped_cream">"Добавить Взбитые сливки: "</string>
+    <string name="add_chocolate">"Добавить Шоколад: "</string>
+    <string name="total_summ">Итого: $</string>
+    <string name="min_quantity">Число чашек должно быть меньше 0</string>
+    <string name="max_quantity">Вы не можете заказать более 100 чашек</string>
+</resources>
