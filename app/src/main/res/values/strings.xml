@@ -11,8 +11,8 @@
     <string name="chocolate">Chocolate</string>
     <string name="whipped_cream">Whipped cream</string>
     <string name="thanks">Thank You!</string>
-    <string name="order_summary_name">Name: <xliff:g id="name" example="Alf">%s</xliff:g> </string>
-    <string name="email_subject">JustJava Order for: <xliff:g id="name" example="Alf">%s</xliff:g> </string>
+    <string name="order_summary_name">Name: <xliff:g id="name" example="Alf" /> </string>
+    <string name="email_subject">JustJava Order for: <xliff:g id="name" example="Alf" /> </string>
     <string name="hint_your_name">Your Name</string>
     <string name="hint_your_email">Your E-mail</string>
     <string name="start_quantity">1</string>
